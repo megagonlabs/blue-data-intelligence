@@ -3,7 +3,7 @@ AI agents are getting better at reasoning, planning, and using tools. But to com
 Blue is a data intelligence layer built for AI agents. It sits between agent frameworks and the underlying data systems, giving agents a unified way to discover, understand, and use data across heterogeneous sources—from relational databases, documents, vector stores, and knowledge graphs to the web, LLM knowledge, and user context.
 
 <p align="center">
-  <img src="./docs/images/data_intelligence_architecture.png" alt="Architecture" width="75%">
+  <img src="./docs/images/data_intelligence_architecture.png" alt="Architecture" width="100%">
 </p>
 
 ## Bring different data sources together
