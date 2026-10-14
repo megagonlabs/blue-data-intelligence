@@ -1,9 +1,10 @@
-# Blue: A Data Intelligence Layer for AI Agents
+# Blue Data Intelligence: A Data Intelligence Layer for AI Agents
 AI agents are getting better at reasoning, planning, and using tools. But to complete real-world tasks, they need more than access to data—they need to understand what information exists, what it means, and how to use it across systems.
-That is the role of Blue.
 Blue is a data intelligence layer built for AI agents. It sits between agent frameworks and the underlying data systems, giving agents a unified way to discover, understand, and use data across heterogeneous sources—from relational databases, documents, vector stores, and knowledge graphs to the web, LLM knowledge, and user context.
 
-## ** Placeholder for data intelligence diagram**
+<p align="center">
+  <img src="./docs/images/data_intelligence_architecture.png" alt="Architecture" width="75%">
+</p>
 
 ## Bring different data sources together
 Real-world tasks rarely depend on a single source of information.
