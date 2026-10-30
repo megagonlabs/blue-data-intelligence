@@ -72,7 +72,7 @@ Many agent tasks depend on information beyond enterprise systems. These sources 
 
 ## Getting started
 
-Each component can be installed individually from its own repository, which documents its installation and quick start and includes its own examples. A typical path:
+Each component can be installed individually from its own repository, which documents its installation and quick start and includes its own examples. Every Blue Data Intelligence component supports Python 3.12 and 3.13 (`requires-python = ">=3.12,<3.14"`). A typical path:
 
 1. Start with the **[Data Foundation](https://github.com/megagonlabs/blue-data)** to register your data sources and build the data registry.
 2. Add the **data sources** you need, such as documents, a knowledge base, the web, an LLM, or user data. Each registers into the same data registry.
